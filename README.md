@@ -1,16 +1,23 @@
-### Hi there 👋
+Salut, je suis Lucien 👋
+Je suis un jeune développeur français, rédacteur en chef (en quelque sorte) d'un média local, associatif et indépendant nommé Libres Commères.
+[![Website](https://img.shields.io/website?label=LibresCommeres.fr&style=for-the-badge&url=https%3A%2F%2Flibrescommeres.fr)](https://librescommeres.fr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/freshpatricke?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpatrickepatate&screen_name=freshpatricke)
+[![Twitter Follow](https://img.shields.io/twitter/follow/librescommeres?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpatrickepatate&screen_name=librescommeres)
+Je ne suis pas un utilisateur assidu de GitHub mais j'essaie de publier certains de mes travaux.
 
-<!--
-**PatrickePatate/PatrickePatate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+[<img align="left" alt="PatrickeTV | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
