@@ -13,5 +13,10 @@ Je ne suis pas un utilisateur assidu de GitHub mais j'essaie de publier certains
 [<img align="left" alt="PatrickeTV | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://twitch.tv/patricketv) Twitch
 
 <br />
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="PatrickePatate's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=patrickepatate&show_icons=true&hide_border=true" />
 
+</details>
