@@ -10,7 +10,8 @@ Je ne suis pas un utilisateur assidu de GitHub mais j'essaie de publier **certai
 
 ### Retrouvez-moi:
 
-[<img align="left" alt="PatrickeTV | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://twitch.tv/patricketv) Twitch
+[<img align="left" alt="PatrickeTV | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://twitch.tv/patricketv) Twitch <br />
+[<img align="left" alt="PatrickeTV | Site vitrine" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fwhite-mouse-cursor-arrow-by-qubodup-11.png&f=1&nofb=1" />](https://lucienpuget.fr) Site personnel
 
 <br />
 ---
