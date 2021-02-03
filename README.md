@@ -6,7 +6,7 @@ Je suis un jeune développeur français, rédacteur en chef (en quelque sorte) d
 [![Twitter Follow](https://img.shields.io/twitter/follow/freshpatricke?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpatrickepatate&screen_name=freshpatricke)
 [![Twitter Follow](https://img.shields.io/twitter/follow/librescommeres?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpatrickepatate&screen_name=librescommeres)
 <br />
-Je ne suis pas un utilisateur assidu de GitHub mais j'essaie de publier certains de mes travaux.
+Je ne suis pas un utilisateur assidu de GitHub mais j'essaie de publier **certains** de mes travaux.
 
 ### Retrouvez-moi:
 
