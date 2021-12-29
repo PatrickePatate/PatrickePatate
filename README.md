@@ -18,6 +18,6 @@ Je ne suis pas un utilisateur assidu de GitHub mais j'essaie de publier **certai
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="PatrickePatate's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=patrickepatate&show_icons=true&hide_border=true" />
+  <img align="left" alt="PatrickePatate's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=patrickepatate&count_private=true" />
 
 </details>
