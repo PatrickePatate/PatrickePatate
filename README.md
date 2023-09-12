@@ -22,6 +22,7 @@ Je suis également une sorte de rédacteur en chef pour Libres Commères, un mé
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="PatrickePatate's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=patrickepatate&count_private=true" />
+  <img align="left" alt="PatrickePatate's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=patrickepatate&show_icons=true" />
+  
 
 </details>
