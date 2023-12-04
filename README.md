@@ -6,12 +6,15 @@ Je suis également une sorte de rédacteur en chef pour Libres Commères, un mé
 ### Découvrez [Accounto.fr](https://accounto.fr) ! 
 Mon logiciel SAAS de gestion d'entreprise orientée Freelance et TPE/PME. Contactez-moi sur [lucien@accounto.fr](mailto:lucien@accounto.fr) pour une démonstration gratuite ou pour discuter de vos besoins.
 <br /><br />
+
 ---
+
 [![Website](https://img.shields.io/website?label=me.lucienpuget.fr&style=for-the-badge&url=https%3A%2F%2Fme.lucienpuget.fr)](https://me.lucienpuget.fr)
 [![Website](https://img.shields.io/website?label=lucienpuget.fr&style=for-the-badge&url=https%3A%2F%2Flucienpuget.fr)](https://lucienpuget.fr)
 [![Website](https://img.shields.io/website?label=LibresCommeres.fr&style=for-the-badge&url=https%3A%2F%2Flibrescommeres.fr)](https://librescommeres.fr)
 [![Twitter Follow](https://img.shields.io/twitter/follow/freshpatricke?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpatrickepatate&screen_name=freshpatricke)
 <br />
+
 ---
 ### Retrouvez-moi:
 
@@ -21,6 +24,7 @@ Mon logiciel SAAS de gestion d'entreprise orientée Freelance et TPE/PME. Contac
 
 <br />
 ---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
