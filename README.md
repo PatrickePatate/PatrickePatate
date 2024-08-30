@@ -1,5 +1,6 @@
 ### Je suis Lucien 👋<br />
-Salut ! Je suis développeur web freelance et développeur Symfony/Drupal chez Actimage.<br />
+Salut ! Je suis développeur web freelance et développeur backend Laravel chez [@code16](https://github.com/code16).<br />
+J'existe aussi sur internet sous le pseudo de Patricke ou FreshPatricke.<br/>
 Seuls certains de mes projets sont publics, la majorité étant réalisés sur mesure pour les besoins de clients, contactez-moi pour avoir un aperçu de ce que je peux faire.
 Je suis également une sorte de rédacteur en chef pour Libres Commères, un média local, associatif et indépendant que j'ai créé fin 2019.
 <br /><br />
